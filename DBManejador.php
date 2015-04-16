@@ -1,5 +1,14 @@
 <?php 
 
+/*
+ *	Autor: Servando Reyes - @zervanstyle - andres92898@gmail.com
+ * 
+ *	Licencia: LGPL 
+ * 
+ *  Web : codificate.wordpress.com
+ * 
+ */
+
 include_once('constantes.php');
 
 class DBManejador extends PDO
